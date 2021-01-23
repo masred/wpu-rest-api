@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Masred",
+    "umur": 25,
+    "npm": 43252345345,
+    "lulus": false,
+    "hobby": ["coding", "gaming", "hiking", "sport"],
+    "pembimbing": {
+      "pembimbing1": "jangkrik",
+      "pembimbing2": "Bos"
+    }
+  },
+  {
+    "nama": "badman",
+    "umur": 25,
+    "npm": 54362356,
+    "lulus": false,
+    "hobby": ["coding", "sport"],
+    "pembimbing": {
+      "pembimbing1": "jangkrik",
+      "pembimbing2": "Bos"
+    }
+  }
+]
